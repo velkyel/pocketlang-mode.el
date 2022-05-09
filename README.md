@@ -1,5 +1,6 @@
 # pocketlang-mode.el
-Emacs major mode for pocketlang https://github.com/ThakeeNathees/pocketlang
+Emacs major mode for editing pocketlang files
+https://github.com/ThakeeNathees/pocketlang
 
 Installation:
 ```
